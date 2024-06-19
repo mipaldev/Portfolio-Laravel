@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Project;
 use App\Models\Technology;
 
-class ContentController extends Controller
+class ContentControllers extends Controller
 {
     public function home()
     {
